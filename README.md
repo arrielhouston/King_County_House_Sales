@@ -1,4 +1,4 @@
-# King County House Sales Dashboard
+# 🏡 King County House Sales Dashboard
 
 **Tool:** Tableau  
 **Data Source:** King County House Sales Dataset (Seattle area)  
