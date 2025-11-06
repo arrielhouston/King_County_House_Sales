@@ -1,4 +1,4 @@
-# 🏡 King County House Sales Dashboard
+# King County House Sales Dashboard
 
 **Tool:** Tableau  
 **Data Source:** King County House Sales Dataset (Seattle area)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This Tableau project explores home sales data across King County, Washington.  
 The goal was to identify what factors influence housing prices and visualize insights that help real estate professionals, investors, and homeowners make informed decisions.
 
@@ -20,7 +20,7 @@ The goal was to identify what factors influence housing prices and visualize ins
 
 ---
 
-## 🧭 Dashboard Features
+## Dashboard Features
 - **Interactive Price Trends:** Median home prices over time, revealing seasonality and market movement.  
 - **Geographic Map:** Visualizes where high and low-priced homes are concentrated in King County.  
 - **Property Drivers:** Scatter plots showing how living area, condition, and grade influence price.  
@@ -29,7 +29,7 @@ The goal was to identify what factors influence housing prices and visualize ins
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - **Living Area & Price:** Strong positive correlation — larger homes generally sell for more.  
 - **Location Matters:** Homes near Seattle’s core show the highest median prices.  
 - **Renovations Pay Off:** Recently remodeled homes earn a premium compared to older ones.  
@@ -38,14 +38,14 @@ The goal was to identify what factors influence housing prices and visualize ins
 
 ---
 
-## 💡 Business Value
+## Business Value
 - **For Agents:** Identify pricing benchmarks and top-performing neighborhoods.  
 - **For Buyers & Homeowners:** Compare properties and evaluate fair value.  
 - **For Investors:** Spot undervalued areas and predict where growth may occur.  
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add **forecasting models** to predict future home prices.  
 - Incorporate **external datasets** (schools, amenities, commute times).  
 - Build **“What-If” simulations** for renovations or upgrades.  
@@ -53,13 +53,13 @@ The goal was to identify what factors influence housing prices and visualize ins
 
 ---
 
-## 🖼️ Dashboard Preview
-![King County Tableau Dashboard](<img width="1351" height="724" alt="kingcounty_dashboard" src="https://github.com/user-attachments/assets/e8de199c-babc-408c-8ab1-f67bb2ceee08" />
+## Dashboard Preview
+![King County Tableau Dashboard]<img width="1351" height="724" alt="kingcounty_dashboard" src="https://github.com/user-attachments/assets/e8de199c-babc-408c-8ab1-f67bb2ceee08" />
 )
 
 ---
 
-## 🧩 Skills Demonstrated
+## Skills Demonstrated
 - Data Visualization & Storytelling  
 - Tableau Calculations & Filters  
 - Data Cleaning & Transformation  
