@@ -54,8 +54,8 @@ The goal was to identify what factors influence housing prices and visualize ins
 ---
 
 ## Dashboard Preview
-![King County Tableau Dashboard]<img width="1351" height="724" alt="kingcounty_dashboard" src="https://github.com/user-attachments/assets/e8de199c-babc-408c-8ab1-f67bb2ceee08" />
-)
+<img width="1351" height="724" alt="kingcounty_dashboard" src="https://github.com/user-attachments/assets/e8de199c-babc-408c-8ab1-f67bb2ceee08" />
+
 
 ---
 
